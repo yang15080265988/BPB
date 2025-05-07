@@ -1,3 +1,5 @@
+原项目地址 https://github.com/bia-pain-bache/BPB-Worker-Panel
+
 BPB-Worke-Panel最新版更新工作流
 BPB Panel在Cloudflare page上部署并实时更新！源代码
 
