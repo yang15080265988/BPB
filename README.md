@@ -23,4 +23,7 @@ BPB面板设置
 
 常用IP获取方式
 cleanIP/优选IP：地址1  地址2  地址3  地址4
-PROXYIP：点击进入1  点击进入2
+
+PROXYIP：
+点击进入1 https://www.nslookup.io/domains/bpb.yousef.isegaro.com/dns-records/#authoritative
+点击进入2 https://ipdb.030101.xyz/bestproxy/
