@@ -1,5 +1,7 @@
 原项目地址 https://github.com/bia-pain-bache/BPB-Worker-Panel
-视频教程 https://www.youtube.com/watch?v=5uQB1BaevP0
+视频教程1 https://www.youtube.com/watch?v=5uQB1BaevP0 方法失效了
+视频教程2 https://www.youtube.com/watch?v=shXOYUGIY3M
+视频教程用到的博客 https://www.kekehub.com/2025/09/bpbnat.html
 BPB-Worke-Panel最新版更新工作流
 BPB Panel在Cloudflare page上部署并实时更新！源代码
 
