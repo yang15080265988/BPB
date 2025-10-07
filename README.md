@@ -1,3 +1,4 @@
+-------------------------------------------------------------
 •原项目地址 https://github.com/bia-pain-bache/BPB-Worker-Panel
 •视频教程搭建自动更新1 https://www.youtube.com/watch?v=5uQB1BaevP0 
 •BPB-Worke-Panel最新版更新工作流
@@ -5,7 +6,7 @@
 --------------------------------------------------
 •视频教程2 https://www.youtube.com/watch?v=shXOYUGIY3M
 •视频教程用到的博客 https://www.kekehub.com/2025/09/bpbnat.html
-
+-------------------------------------------------------------
 
 Cloudflare 部署
 •创建pages：点击workers和pages，选择pages部署。连接github仓库，选择新建的项目仓库，然后点击部署。
