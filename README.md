@@ -1,9 +1,9 @@
-原项目地址 https://github.com/bia-pain-bache/BPB-Worker-Panel
-视频教程1 https://www.youtube.com/watch?v=5uQB1BaevP0 方法失效了
-视频教程2 https://www.youtube.com/watch?v=shXOYUGIY3M
-视频教程用到的博客 https://www.kekehub.com/2025/09/bpbnat.html
-BPB-Worke-Panel最新版更新工作流
-BPB Panel在Cloudflare page上部署并实时更新！源代码
+•原项目地址 https://github.com/bia-pain-bache/BPB-Worker-Panel
+•视频教程1 https://www.youtube.com/watch?v=5uQB1BaevP0 方法失效了
+•视频教程2 https://www.youtube.com/watch?v=shXOYUGIY3M
+•视频教程用到的博客 https://www.kekehub.com/2025/09/bpbnat.html
+•BPB-Worke-Panel最新版更新工作流
+•BPB Panel在Cloudflare page上部署并实时更新！源代码
 
 
 
@@ -12,7 +12,8 @@ Cloudflare 部署
 
 •绑定自定义域名：以防止page分配的域名被屏蔽。
 
-•设置变量：UUID，PROXY_IP, TR_PASS
+•设置变量：UUID、TR_PASS、PROXY_IP、NAT64_PREFIX
+•NAT64设置里 [2602:fc59:b0:64::],[2a02:898:146:64::],[2602:fc59:11:64::]
 
 •绑定KV命名空间：名称随便但不能含有bpb等敏感词
 
