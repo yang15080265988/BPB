@@ -12,7 +12,7 @@ Cloudflare 部署
 
 •绑定自定义域名：以防止page分配的域名被屏蔽。
 
-•设置变量：UUID、TR_PASS、PROXY_IP、NAT64_PREFIX
+•设置变量：UUID、TR_PASS、PROXY_IP、NAT64_PREFIX，
 •NAT64设置里 [2602:fc59:b0:64::],[2a02:898:146:64::],[2602:fc59:11:64::]
 
 •绑定KV命名空间：名称随便但不能含有bpb等敏感词
