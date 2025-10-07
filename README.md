@@ -1,7 +1,7 @@
 -------------------------------------------------------------
 •原项目地址 https://github.com/bia-pain-bache/BPB-Worker-Panel
 
-•视频教程搭建自动更新1 https://www.youtube.com/watch?v=5uQB1BaevP0 
+失效了这个方法•视频教程搭建自动更新1 https://www.youtube.com/watch?v=5uQB1BaevP0 
 •BPB-Worke-Panel最新版更新工作流
 •BPB Panel在Cloudflare page上部署并实时更新！源代码
 --------------------------------------------------
